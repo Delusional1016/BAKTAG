@@ -1,0 +1,8 @@
+Product Name
+EAN: 0123456789012
+Code Date: MM/DD/YYYY
+Net Weight: 0 lbs / 0 kg
+Manufacturer: Franklin Baker, 123 Coconut St, Manila, Philippines
+Ingredients: Coconut, Sugar
+Country of Origin: Philippines
+Bag No: 0003

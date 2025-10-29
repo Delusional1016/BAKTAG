@@ -1,0 +1,18 @@
+EAN Code: 
+Product Name: 
+Code Date/Lot No: 
+Net Weight: 
+Manufacturer and Address: Franklin Baker, 123 Coconut St, Manila, Philippines
+Ingredients: Coconut, Sugar
+Country of Origin: Philippines
+Bag No: 0003
+Printed at 2025-10-12 17:43:42
+EAN Code: 2345678901234
+Product Name: Coconut Milk Powder
+Code Date/Lot No: 2025-10-12
+Net Weight: 1.75 lbs / 0.79 kg
+Manufacturer and Address: Franklin Baker, 123 Coconut St, Manila, Philippines
+Ingredients: Coconut, Sugar
+Country of Origin: Philippines
+Bag No: 0001
+Printed at 2025-10-12 17:44:38
